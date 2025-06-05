@@ -35,7 +35,7 @@ This project uses unsupervised machine learning to discover **NBA player archety
 |---------|----------------------------|---------------------------------------------|
 | 0       | Non-Scoring Playmakers     | High assists, lower scoring floor generals   |
 | 1       | Elite Scoring Playmakers   | MVP-caliber scorers who can also facilitate |
-| 2       | Elite Scoring Rebounders   | Bigs who dominate the paint on both ends     |
+| 2       | Scoring Rebounders         | Bigs who dominate the paint on both ends     |
 | 3       | 3P Range Scorers           | High 3PM players who stretch the floor       |
 
 ### 🪑 Bench:
